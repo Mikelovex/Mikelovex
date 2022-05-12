@@ -4,10 +4,10 @@
 
 ### Hey, i'm Michael!  ✌️
 
-**Front-end Developer.**
+**Developer.**
 
-- 🌱 I’m currently learning ReactJs
-- 💻 Html,  Css,  Javascript
+- 🌱 I’m currently learning NextJs
+- 💻 React, Nodejs, Typescript
 - 📚 Learning is continuous and there will always be a next level
 
 
