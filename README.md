@@ -6,7 +6,7 @@
 
 **Developer.**
 
-- 🌱 I’m currently learning NextJs
+- 🌱 I’m currently learning Java, Spring boot
 - 💻 React, Nodejs, Typescript
 - 📚 Learning is continuous and there will always be a next level
 
